@@ -4,3 +4,9 @@ c:\users\сикировт\documents\visual studio 2017\Projects\PractEnum\PractE
 c:\users\сикировт\documents\visual studio 2017\Projects\PractEnum\PractEnum\obj\Debug\PractEnum.csprojResolveAssemblyReference.cache
 c:\users\сикировт\documents\visual studio 2017\Projects\PractEnum\PractEnum\obj\Debug\PractEnum.exe
 c:\users\сикировт\documents\visual studio 2017\Projects\PractEnum\PractEnum\obj\Debug\PractEnum.pdb
+C:\My Documents\Visual Studio 2017\Projects\StructEnum2\PractEnum\bin\Debug\PractEnum.exe.config
+C:\My Documents\Visual Studio 2017\Projects\StructEnum2\PractEnum\bin\Debug\PractEnum.exe
+C:\My Documents\Visual Studio 2017\Projects\StructEnum2\PractEnum\bin\Debug\PractEnum.pdb
+C:\My Documents\Visual Studio 2017\Projects\StructEnum2\PractEnum\obj\Debug\PractEnum.csprojResolveAssemblyReference.cache
+C:\My Documents\Visual Studio 2017\Projects\StructEnum2\PractEnum\obj\Debug\PractEnum.exe
+C:\My Documents\Visual Studio 2017\Projects\StructEnum2\PractEnum\obj\Debug\PractEnum.pdb

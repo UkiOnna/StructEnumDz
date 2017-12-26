@@ -8,6 +8,6 @@ namespace PractEnum
 {
     public enum Vacancies
     {
-        Manager, Boss, Clerk, Salesman
+        Manager=1, Boss, Clerk, Salesman
     }
 }
